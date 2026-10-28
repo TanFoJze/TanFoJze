@@ -1,2 +1,1 @@
-# Welcome to my GitHub homepage. 
-# I am 🅃ɑn𝔼𝕠𝒥𝓏e🐦
+# Welcome to my GitHub homepage.\n I am 🅃ɑn𝔼𝕠𝒥𝓏e🐦
