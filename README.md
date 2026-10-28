@@ -7,5 +7,5 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h3>· Project-Link</h3>
 <h4>
 [个人主页]&ensp;https://tanfojze.github.io<br>
-[整活主页]&ensp;<a href="https://vfs52hyerrtskpest2g0vx9as4n7z.github.io/" target="_blank">https://未知力量隐藏了网址...</a>
+[整活主页]&ensp;<a href="https://vfs52hyerrtskpest2g0vx9as4n7z.github.io/" target="_blank">https://unknown.forces have.hidden.the.website.address...</a>
 </h4>
