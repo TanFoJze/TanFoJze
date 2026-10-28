@@ -6,5 +6,5 @@ Right now, I'm focusing on programming fundamentals, hands-on practice, and open
 Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h3>· Project-Link</h3>
 <h4>
-[我的 GitHub](https://tanfojze.github.io "点我")
+[个人主页] https://tanfojze.github.io
 </h4>
