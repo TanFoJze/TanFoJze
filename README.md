@@ -15,7 +15,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h4>
 [社交账号]<br><br>
 
-QQ:&ensp;3582569171
+QQ:&ensp;3582569171<br>
 &ensp;&ensp;&ensp; https://qm.qq.com/q/Ddx8pWHpfi<br>
 
 <br>
