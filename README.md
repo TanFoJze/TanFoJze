@@ -15,7 +15,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h4>
 [社交账号]<br>
 [视频账号]<br>
-https://b23.tv/cxZv1Fm <br>
+哔哩哔哩: https://b23.tv/cxZv1Fm <br>
 [游戏账号]<br>
 </h4>
 
