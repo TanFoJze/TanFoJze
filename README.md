@@ -15,7 +15,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h4>
 [社交账号]<br><br>
 
-QQ:&ensp;3582569171<a href="https://qm.qq.com/q/Ddx8pWHpfi" target="_blank">⌘添加</a><br>tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3582569171&website=github.com
+QQ:&ensp;3582569171<a href="https://qm.qq.com/q/Ddx8pWHpfi" target="_blank">⌘添加</a><br>mqqwpa://im/chat?chat_type=wpa&uin=3582569171&version=1
 <br>
 
 <br>
