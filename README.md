@@ -20,7 +20,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 Instagram:&ensp;<a href="https://www.instagram.com/tanfojze?igsh=MXluenJ1bGR1azhz" target="_blank">https://www.instagram.com/tan...</a><br>
 BiliBili:&ensp;&ensp;&ensp;&ensp;&ensp;https://b23.tv/cxZv1Fm<br>
 Kuaishou:&ensp;&ensp;https://v.kuaishou.com/nYcMSTRY<br>
-Rednote:&ensp;&ensp;https://xhslink.cn/o/AZgrgqWqIwF
+Rednote:&ensp;&ensp;&ensp;https://xhslink.cn/o/AZgrgqWqIwF
 <br>
 [游戏账号]<br><br>
 </h4>
