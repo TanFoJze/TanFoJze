@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;">Welcome To My GitHub Homepage</h1>
+<h1>Welcome To My GitHub Homepage</h1>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
 On GitHub, I've found many exceptional creators and remarkable open-source projects. I really admire how they share knowledge and build things together, and I hope to gradually create my own open-source projects as I learn.
@@ -17,7 +17,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 
 <br>
 [视频账号]<br><br>
-https://www.instagram.com/tanfojze?igsh=MXluenJ1bGR1azhz<br>
+&ensp;<a href="https://www.instagram.com/tanfojze?igsh=MXluenJ1bGR1azhz" target="_blank">https://www.instagram.com/tanfojze...</a><br>
 BiliBili:&ensp;https://b23.tv/cxZv1Fm<br>
 <br>
 [游戏账号]<br><br>
