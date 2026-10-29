@@ -17,7 +17,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 
 <br>
 [视频账号]<br><br>
-<br>
+https://www.instagram.com/tanfojze?igsh=MXluenJ1bGR1azhz<br>
 BiliBili:&ensp;https://b23.tv/cxZv1Fm<br>
 <br>
 [游戏账号]<br><br>
