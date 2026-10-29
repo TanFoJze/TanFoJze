@@ -12,4 +12,8 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 [司凤主页]&ensp;https://nmsl48.github.io<br>
 </h4>
 <h3>·&ensp;Account-Link</h3>
+<h4>
+[社交账号]
+[视频账号]
+</h4>
 
