@@ -15,7 +15,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h4>
 [社交账号]<br><br>
 
-3582569171<br>
+3582569171https://qm.qq.com/q/Ddx8pWHpfi<br>
 
 <br>
 [视频账号]<br><br>
