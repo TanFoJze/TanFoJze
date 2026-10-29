@@ -14,8 +14,9 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 <h3>·&ensp;Account-Link</h3>
 <h4>
 [社交账号]<br><br>
-
-QQ:&ensp;3582569171&ensp;<a href="https://qm.qq.com/q/Ddx8pWHpfi" target="_blank">⌘添加</a><br>Q群:&ensp;
+QQ&ensp;:&ensp;3582569171&ensp;<a href="https://qm.qq.com/q/Ddx8pWHpfi" target="_blank">⌘添加</a><br>
+Q群:&ensp;<br>
+3582569171@qq.com<br>
 <br>
 
 <br>
