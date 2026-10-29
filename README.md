@@ -19,7 +19,7 @@ Always learning, always improving.🫠🥳🐦👽🫨🤯</h4>
 [视频账号]<br><br>
 Instagram:&ensp;<a href="https://www.instagram.com/tanfojze?igsh=MXluenJ1bGR1azhz" target="_blank">https://www.instagram.com/tan...</a><br>
 BiliBili:&ensp;https://b23.tv/cxZv1Fm<br>
-https://v.kuaishou.com/nYcMSTRY
+Kuaishou:&ensp;https://v.kuaishou.com/nYcMSTRY
 <br>
 [游戏账号]<br><br>
 </h4>
