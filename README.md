@@ -1,3 +1,5 @@
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanFoJze&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <h1>Welcome To My GitHub Homepage</h1>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
