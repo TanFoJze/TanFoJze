@@ -27,5 +27,6 @@ Kuaishou:&ensp;&ensp;https://v.kuaishou.com/nYcMSTRY<br>
 Rednote:&ensp;&ensp; https://xhslink.cn/o/AZgrgqWqIwF
 <br>
 [游戏账号]<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanFoJze&repo=TanFoJze&theme=transparent)](https://github.com/TanFoJze/TanFoJze)
 </h4>
 
