@@ -27,9 +27,5 @@ Kuaishou:&ensp;&ensp;https://v.kuaishou.com/nYcMSTRY<br>
 Rednote:&ensp;&ensp; https://xhslink.cn/o/AZgrgqWqIwF
 <br>
 [游戏账号]<br><br>
-<details>
-  <summary>📬 联系方式（点击展开）</summary>
-  <p>QQ: <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3582569171&website=github.com">3582569171</a></p>
-</details>
 </h4>
 
