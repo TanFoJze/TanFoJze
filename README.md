@@ -1,4 +1,5 @@
 <h1>Welcome To My GitHub Homepage</h1>
+![图片描述](https://piv.cc.cd/file/BQACAgUAAyEGAASLVN5eAAJ2tGrjXyvBTTiBFkaqVhJRc3TxqiLPAAKYLwAC1dYhV8xNN88BqawnPQQ.jpg)
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
 On GitHub, I've found many exceptional creators and remarkable open-source projects. I really admire how they share knowledge and build things together, and I hope to gradually create my own open-source projects as I learn.
@@ -27,10 +28,5 @@ Kuaishou:&ensp;&ensp;https://v.kuaishou.com/nYcMSTRY<br>
 Rednote:&ensp;&ensp; https://xhslink.cn/o/AZgrgqWqIwF
 <br>
 [游戏账号]<br><br>
-<p align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TanFoJze&show_icons=true&theme=transparent" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</p>
-
 </h4>
 
