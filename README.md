@@ -1,6 +1,5 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
-<img src="https://piv.cc.cd/file/BQACAgUAAyEGAASLVN5eAAJ2tGrjXyvBTTiBFkaqVhJRc3TxqiLPAAKYLwAC1dYhV8xNN88BqawnPQQ.jpg" alt="图片描述" width="300" />
 </h2>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
