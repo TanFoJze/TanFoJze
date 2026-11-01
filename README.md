@@ -1,6 +1,5 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
-<img src="https://cdn.jsdelivr.net/gh/nmsl48/nmsl48.github.io@main/the-old-pastor-s/the-old-pastor0.png" alt="the old pastor">
 </h2>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
