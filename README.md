@@ -1,6 +1,8 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
-<img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/teto-icon.jpg" alt="teto icon">
+<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/teto-icon.jpg" alt="teto icon">
+</a>
 </h2>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
