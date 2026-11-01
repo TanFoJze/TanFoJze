@@ -1,7 +1,16 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
-<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/teto-icon.jpg" alt="teto icon">
+<a
+  href="https://b23.tv/sO2aOJA"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="position: fixed; top: 0; left: 0; z-index: 9999; display: block; transform: scale(0.5); transform-origin: top left;"
+>
+  <img
+    src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/teto-icon.jpg"
+    alt="teto icon"
+    style="display: block;"
+  >
 </a>
 </h2>
 <h3>· Personal-Profile</h3>
