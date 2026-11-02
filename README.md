@@ -1,7 +1,7 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/teto-icon.jpg" alt="teto icon">
+  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
 </a>
 </h2>
 <h3>· Personal-Profile</h3>
