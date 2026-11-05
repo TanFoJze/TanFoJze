@@ -5,12 +5,14 @@
 <details>
   <summary align="center">🥳Individual ability progress🫠</summary>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=-UNKNOWN" 
-      alt="GitHub Trophies" 
-    />
-  </a>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img 
+        src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-UNKNOWN" 
+        alt="GitHub Trophies" 
+      />
+    </a>
+  </div>
 
 </details>
 
