@@ -3,14 +3,11 @@
 </div>
 
 <details>
-  <summary><center>🥳 Individual ability progress 🫠</center></summary>
+  <summary><div align="center">🥳 Individual ability progress 🫠</div></summary>
 
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img 
-        src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-UNKNOWN" 
-        alt="GitHub Trophies" 
-      />
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-UNKNOWN" alt="GitHub Trophies" />
     </a>
   </div>
 
@@ -27,7 +24,7 @@
   <table>
     <tr>
       <td style="vertical-align: middle; width: 120px;">
-        <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze/blob/main/profile-resources%2Fimages%2Ftfj-ps-icin0.png?size=110" width="110" height="110" alt="avatar" style="border-radius: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/tfj-ps-icin0.png" width="110" height="110" alt="avatar" style="border-radius: 10px;" />
       </td>
       <td style="vertical-align: middle;">
         <sub><strong>TanFoJze</strong>✦</sub><br />
