@@ -1,5 +1,10 @@
 <h1>Welcome To My GitHub Homepage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&theme=transparent"
+    alt="Top Langs"
+  />
+</a>
 </h1>
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
