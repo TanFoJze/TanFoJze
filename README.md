@@ -11,14 +11,17 @@
     </td>
     <td valign="middle">
       <sub><strong>TanFoJze</strong></sub><br>
-      <sub>前端 / 后端 / 折腾各种小工具</sub><br>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="16" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="16" />
-      <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white" height="16" />
+      <sub>前端 / 后端 / 折腾各种小工具</sub>
     </td>
   </tr>
 </table>
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="16" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="16" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white" height="16" />
+</p>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
 </a>
