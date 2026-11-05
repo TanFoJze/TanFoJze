@@ -10,11 +10,10 @@
       />
     </td>
     <td valign="middle">
-      <strong>TanFoJze</strong><br>
-      <small>前端 / 后端 / 折腾各种小工具</small><br>
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="18" />
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="18" /><br>
-      <small>📫 <a href="mailto:you@example.com">you@example.com</a></small>
+      <sub><strong>TanFoJze</strong></sub><br>
+      <sub>前端 / 后端 / 折腾各种小工具</sub><br>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="16" />
     </td>
   </tr>
 </table>
