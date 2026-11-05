@@ -24,6 +24,7 @@
     </td>
     <td valign="middle">
       <sub><strong>TanFoJze</strong></sub><br>
+      <sub>QQ 3582569171@qq.com</sub>
       <sub>像世界之外的飞鸟一样~</sub>
     </td>
   </tr>
