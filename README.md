@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="myhomeicon">
 <h5>2026</h5>
 </a>
-<table>
+<table width="100%">
   <tr>
     <td valign="middle" width="120">
       <img
