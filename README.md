@@ -16,16 +16,17 @@
   </tr>
 </table>
 
+
+<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
+</a>
+</h2>
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="16" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="16" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white" height="16" />
 </p>
-<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
-</a>
-</h2>
 <h5>I enjoy working with: Python Java  BaseShell</h5>
 <h3>· Personal-Profile</h3>
 <h4>🅃ɑn𝔼𝕠𝒥𝓏e🐦is me,&ensp;Hi<br><br>&ensp;&ensp;I'm a programming beginner currently learning programming fundamentals, along with the basics of Git and GitHub.
