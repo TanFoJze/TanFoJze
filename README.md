@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td style="vertical-align: middle; width: 120px;">
-        <img src="https://github.com/TanFoJze.png?size=110" width="110" height="110" alt="avatar" style="border-radius: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze/blob/main/profile-resources%2Fimages%2Ftfj-ps-icin0.png?size=110" width="110" height="110" alt="avatar" style="border-radius: 10px;" />
       </td>
       <td style="vertical-align: middle;">
         <sub><strong>TanFoJze</strong>✦</sub><br />
