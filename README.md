@@ -1,4 +1,4 @@
-<h1>Welcome To My GitHub Homepage
+<h1>Welcome To My GitHub Homepage</h1>
 <h5>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
@@ -8,7 +8,7 @@
 </a>
 
 </h5>
-</h1>
+
 
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
