@@ -18,7 +18,7 @@
   <tr>
     <td valign="middle" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/tfj-ps-icin0.png"
+        src="https://github.com/TanFoJze.png?size=110"
         width="110" height="110" alt="avatar"
         style="border-radius: 10px;"
       />
