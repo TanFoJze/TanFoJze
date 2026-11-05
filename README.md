@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="16" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white" height="16" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="16" />
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white" height="16" />
+  <img src="https://img.shields.io/badge/-GNUShell-4EAA25?logo=gnubash&logoColor=white" height="16" />
+
 </p>
 <h5>I enjoy working with: Python Java  BaseShell</h5>
 <h3>· Personal-Profile</h3>
