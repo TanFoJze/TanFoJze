@@ -24,9 +24,11 @@
       />
     </td>
     <td valign="middle">
-      <sub><h5><strong>TanFoJze</strong>❀</h5></sub><br>
-      <sub><h5>3582569171@qq.com</h5></sub><br>
-      <sub><h5>像世界之外的飞鸟一样~</h5></sub>
+<h5>
+      <sub><strong>TanFoJze</strong>❀</sub><br>
+      <sub>3582569171@qq.com</sub><br>
+      <sub>像世界之外的飞鸟一样~</sub>
+</h5>
     </td>
   </tr>
 </table>
