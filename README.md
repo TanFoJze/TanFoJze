@@ -1,5 +1,8 @@
 <h1>Welcome To My GitHub Homepage
-
+<img 
+  src="https://github3d-api-production.up.railway.app/contributions/TanFoJze/image.svg" 
+  alt="3D Isometric Contributions" 
+/>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
     src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=-UNKNOWN" 
