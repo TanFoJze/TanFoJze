@@ -11,7 +11,7 @@
     </td>
     <td valign="middle">
       <sub><strong>TanFoJze</strong></sub><br>
-      <sub>前端 / 后端 / 折腾各种小工具</sub>
+      <sub>像世界之外的飞鸟一样~</sub>
     </td>
   </tr>
 </table>
