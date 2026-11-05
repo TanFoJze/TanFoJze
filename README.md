@@ -3,7 +3,7 @@
 </div>
 
 <details>
-  <summary><p align="center">🥳Individual ability progress🫠</p></summary>
+  <summary align="center">🥳Individual ability progress🫠</summary>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
