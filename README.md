@@ -1,10 +1,4 @@
 <h1>Welcome To My GitHub Homepage
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-dark.svg" />
-  <img alt="Isometric GitHub contribution chart" 
-       src="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-light.svg" />
-</picture>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
     src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=-UNKNOWN" 
