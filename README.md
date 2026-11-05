@@ -1,5 +1,8 @@
 <h1>Welcome To My GitHub Homepage</h1>
 <h2>
+<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
+</a>
 <table>
   <tr>
     <td valign="middle" width="120">
@@ -15,11 +18,6 @@
     </td>
   </tr>
 </table>
-
-
-<a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
-</a>
 </h2>
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="16" />
