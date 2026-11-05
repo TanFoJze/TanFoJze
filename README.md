@@ -1,8 +1,8 @@
 <h1>Welcome To My GitHub Homepage
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&theme=transparent"
-    alt="Top Langs"
+    src="https://github-profile-trophy.vercel.app/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+    alt="GitHub Trophies"
   />
 </a>
 </h1>
