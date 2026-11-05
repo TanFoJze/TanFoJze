@@ -10,9 +10,7 @@
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="myhomeicon">
-<br>
 <h5>2026</h5>
-<br>
 </a>
 <table>
   <tr>
