@@ -1,11 +1,14 @@
 <h1>Welcome To My GitHub Homepage
-<a href="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" 
+    src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" 
     alt="GitHub Trophies" 
   />
 </a>
+
 </h1>
+
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
@@ -26,6 +29,7 @@
   </tr>
 </table>
 </h2>
+
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="16" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="16" />
