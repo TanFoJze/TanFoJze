@@ -1,8 +1,8 @@
 <h1>Welcome To My GitHub Homepage
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-    alt="GitHub Trophies"
+  <img 
+    src="https://github-profile-trophy.nixrajput.com/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" 
+    alt="GitHub Trophies" 
   />
 </a>
 </h1>
