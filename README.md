@@ -2,18 +2,20 @@
   <h1>✿ Welcome To My GitHub Homepage</h1>
 </div>
 
-<details>
-  <summary><h3 align="center">🥳 Individual ability progress 🫠</h3></summary>
+<div align="center">
+  <details>
+    <summary>🥳 Individual ability progress 🫠</summary>
 
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img
-        src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-UNKNOWN"
-        alt="GitHub Trophies" />
-    </a>
-  </div>
+    <div align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img
+          src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=-UNKNOWN"
+          alt="GitHub Trophies" />
+      </a>
+    </div>
 
-</details>
+  </details>
+</div>
 
 <br />
 
