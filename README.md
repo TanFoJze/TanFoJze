@@ -1,4 +1,6 @@
-<h1>Welcome To My GitHub Homepage</h1>
+<h1>Welcome To My GitHub Homepage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanFoJze&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</h1>
 <h2>
 <a href="https://b23.tv/sO2aOJA" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/gif/icon-mrfz0.gif" alt="teto icon">
