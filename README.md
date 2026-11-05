@@ -23,7 +23,7 @@
       />
     </td>
     <td valign="middle">
-      <sub><strong>TanFoJze</strong></sub><br>
+      <sub><strong>TanFoJze</strong>    ❀</sub><br>
       <sub>3582569171@qq.com</sub><br>
       <sub>像世界之外的飞鸟一样~</sub>
     </td>
