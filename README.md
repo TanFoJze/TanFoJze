@@ -2,23 +2,19 @@
 <h2>
 <table>
   <tr>
-    <td valign="top" width="130">
+    <td valign="middle" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/TanFoJze/TanFoJze@main/profile-resources/images/tfj-ps-icin0.png"
         width="110" height="110" alt="avatar"
         style="border-radius: 10px;"
       />
     </td>
-    <td valign="top">
-      <h3>Hi there 👋 我是 TanFoJze</h3>
-      <p>一句话简介：前端 / 后端 / 折腾各种小工具。</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-      </p>
-      <p>
-        📫 联系我：<a href="mailto:you@example.com">you@example.com</a>
-      </p>
+    <td valign="middle">
+      <strong>TanFoJze</strong><br>
+      <small>前端 / 后端 / 折腾各种小工具</small><br>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="18" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="18" /><br>
+      <small>📫 <a href="mailto:you@example.com">you@example.com</a></small>
     </td>
   </tr>
 </table>
