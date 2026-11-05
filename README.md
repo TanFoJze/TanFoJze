@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✿ Welcome To My GitHub Homepage</h1>
+  <h3>✿ Welcome To My GitHub Homepage</h3>
 </div>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
