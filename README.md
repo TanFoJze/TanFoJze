@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img 
-    src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" 
+    src="https://trophygithubreadmelang.cybee.dpdns.org/?username=TanFoJze&theme=transparent&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=-UNKNOWN,-C" 
     alt="GitHub Trophies" 
   />
 </a>
